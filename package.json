@@ -1,0 +1,11 @@
+{
+  "name": "greeting-server",
+  "version": "0.0.1",
+  "description": "A sample greeting server which also acts as examle for applying the OpenSSF Scorecard project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Jeroschewski",
+  "license": "MIT"
+}
